@@ -2,7 +2,7 @@
 
 Azure AI Architect & Engineer
 
-Stanford AI Professional | Microsoft Agentic AI Architect · AI Engineer
+Stanford AI Professional | Microsoft Agentic AI Architect · AI Engineer · Azure Solutions Architect
 
 Designing and building complex AI business solutions on Azure — specializing in Agentic AI, multi-agent orchestration, and RAG applications for regulated industries.
 
